@@ -60,7 +60,7 @@ export default function AboutPage() {
           <div>
             <h2 className="text-2xl font-sentient mb-4">Our Story</h2>
             <p className="font-mono text-sm text-foreground/60 leading-relaxed">
-              itinnovatorss is a cutting-edge technology company dedicated to transforming businesses through innovative
+              IT-INNOVATORSS  is a cutting-edge technology company dedicated to transforming businesses through innovative
               digital solutions. Founded with a vision to bridge the gap between complex technology and practical
               business applications, we have grown to become a trusted partner for companies seeking digital excellence.
             </p>

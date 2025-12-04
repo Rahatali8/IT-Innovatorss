@@ -59,7 +59,7 @@ export const Header = () => {
 
   return (
     <div
-      className={`fixed z-50 pt-8 md:pt-14 top-0 left-0 w-full transition-all duration-300 ${
+      className={`fixed z-50  top-0 left-0 w-full transition-all duration-300 ${
         scrolled ? "bg-background/90 backdrop-blur-md border-b border-border/50 pt-4 md:pt-6" : ""
       }`}
     >

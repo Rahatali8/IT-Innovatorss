@@ -44,7 +44,7 @@ export function WhyChooseUs() {
             Why Choose Us
           </span>
           <h2 className="mt-4 font-serif text-4xl text-white md:text-5xl lg:text-6xl">
-            The itinnovatorss <em className="text-white/80">Advantage</em>
+            The IT-INNOVATORSS <em className="text-white/80">Advantage</em>
           </h2>
           <p className="mx-auto mt-6 max-w-2xl text-white/60">
             We combine technical excellence with business acumen to deliver solutions that drive real results for your

@@ -35,7 +35,7 @@ export function AboutSection() {
           <div>
             <h3 className="mb-6 text-xl font-medium text-white">Our Story</h3>
             <p className="text-base leading-relaxed text-white/60">
-              itinnovatorss is a cutting-edge technology company dedicated to transforming businesses through innovative
+              IT-INNOVATORSS  is a cutting-edge technology company dedicated to transforming businesses through innovative
               digital solutions. Founded with a vision to bridge the gap between complex technology and practical
               business applications, we have grown to become a trusted partner for companies seeking digital excellence
               and operational efficiency.

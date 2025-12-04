@@ -15,7 +15,7 @@ const montserrat = Montserrat({
 })
 
 export const metadata: Metadata = {
-  title: "itinnovatorss",
+  title: "IT-INNOVATORSS ",
   description: "Innovative IT Solutions for Your Business Growth",
 }
 
